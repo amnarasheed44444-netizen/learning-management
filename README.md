@@ -63,5 +63,5 @@ LMS/
 ---
 
 ## 👤 Author
-Amna Urooj  
+Amna Rasheed
 Computer Science Student  
