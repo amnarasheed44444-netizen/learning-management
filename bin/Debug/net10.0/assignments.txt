@@ -1,6 +1,0 @@
-cmp,ss,,0
-com,ss,amna,222,0
-android,aaa,amna,aaa,0
-compiler,cmp,,0
-cyber,attacks,,0
-cyber,atacks,ahmed,12 aprl,0

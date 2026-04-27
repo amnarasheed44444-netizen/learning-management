@@ -1,1 +1,0 @@
-cpmipler,wha is compiler,source code into machine code

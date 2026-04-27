@@ -1,9 +1,0 @@
-amna,123,student
-amna,123,student
-amna,12,student
-amna,12,teacher
-nayab,234,teacher
-ahmed,123,student
-amna,123,admin
-amna,12,student
-maira,1244,admin
